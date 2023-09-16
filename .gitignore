@@ -1,0 +1,5 @@
+login/node_modules/
+login/next-env.d.ts
+login/.next/
+
+backend/node_modules/

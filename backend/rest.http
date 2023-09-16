@@ -1,0 +1,7 @@
+GET http://localhost:3001/users
+
+###
+GET http://localhost:3001/
+
+###
+POST http://localhost:3001/auth/login
